@@ -20,7 +20,7 @@ export const defaultLoveLetterParagraphs: string[] = [
 ];
 
 const ahmedGift: GiftData = {
-  senderName: "AIBANDRI",
+  senderName: "AlBANDRI",
   receiverName: "Adel",
   envelopeImage: "/images/envelope-placeholder.png",
   cardMessage: "Check out these awesome surprises made just for you",
